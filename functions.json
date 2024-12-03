@@ -1,0 +1,6 @@
+{
+    "function": "predict",
+    "params": {
+        "test_image_path": ""
+    }
+}
